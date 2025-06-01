@@ -15,7 +15,7 @@
            "Tantifilm":{
                "url": "https://www.tanti.bond",
                "TF_ForwardProxy": "0",
-               "TF_PROXY": "0",
+               "TF_PROXY": "1",
                "enabled": "1"
            },
            "Mysterius":{
@@ -36,16 +36,7 @@
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
               "enabled":"1"
-          },
-          "DDLStream":{
-              "url":"https://ddlstreamitaly.co",
-              "cookies" : {
-                  "ips4_device_key": "1496c03312d318b557ff 53512202e757",
-                  "ips4_IPSSessionFront": "d9ace0029696972877e2a5e3614a333b",
-                  "ips4_member_id": "4030088",
-                  "ips4_login_key": "71a501781ba479dfb91b40147e637daf"
-                  },
-              "enabled":"1"
+                   
           },
           "Guardaserie":{
               "url":"https://guardaserietv.art",
@@ -58,12 +49,7 @@
               "enabled":"1",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"1"
-          },
-          "Onlineserietv":{
-              "domain":"com",
-              "enabled":"1",
-              "OST_ForwardProxy":"0",
-              "OST_PROXY":"1"
+          
           },
           "AnimeWorld":{
               "url":"https://www.animeworld.ac",
